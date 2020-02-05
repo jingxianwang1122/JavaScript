@@ -1,0 +1,6 @@
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\bin\Debug\Antra.Traing.UI.ConsoleApp.exe.config
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\bin\Debug\Antra.Traing.UI.ConsoleApp.exe
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\bin\Debug\Antra.Traing.UI.ConsoleApp.pdb
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\obj\Debug\Antra.Traing.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\obj\Debug\Antra.Traing.UI.ConsoleApp.exe
+C:\Users\Jingxian\source\repos\ConsoleApp3\Antra.Traing.UI.ConsoleApp\obj\Debug\Antra.Traing.UI.ConsoleApp.pdb
